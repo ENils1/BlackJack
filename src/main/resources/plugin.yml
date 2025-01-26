@@ -1,0 +1,6 @@
+name: blackjack
+main: no.blackjack.BlackJackPlugin
+version: 1
+api-version: 1.15
+depend:
+  - Vault
